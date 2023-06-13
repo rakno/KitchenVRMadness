@@ -1,4 +1,14 @@
 # kitchenMadnessVR
+"Taco Truck Madness" is an exhilarating virtual reality cooking game that puts players in the role of a chef facing intense pressure. The game's objective is to showcase culinary skills by meticulously cutting, skillfully cooking, and expertly assembling a diverse range of ingredients, all within challenging time constraints. Prepare yourself for an adrenaline-fueled adventure as you strive to meet the demands of demanding customers in this fast-paced VR experience. Can you withstand the heat of the virtual kitchen and rise to become the ultimate master chef?
+
+It was a team effort involving six members, including myself.
+
+My contributions:
+- Complete Taco WorkStation Modeling (Kitchen)
+- Sauce Bottle Feature
+- Knife Creation for Cutting of Vegetables
+Skills: Virtual Reality Development | VR/XR | Virtual Reality (VR) | 3D Design | Unity | Jira | GitHub | C# | Agile Project Management
+
 
 PC Controls
 *Click on the game screen to make the cursor disappear, ESC to reappear*
